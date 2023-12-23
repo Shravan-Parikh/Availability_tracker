@@ -3,7 +3,9 @@
 
 # Approach
 -Firstly convert all the time in a single common Timezone i.e target Time zone
+
 -Now find the most common time from the available time given by the different user
+
 -I have used python inbuilt datetime library so that everything is paresd in time format itself
  HH:MM hour and minutes which makes everything easy to process.
  
